@@ -21,5 +21,4 @@ This project is a sense AI that allows users to upload documents or add URLs and
 
 1. Navigate to the backend directory:
    ```bash
-   cd backend
-
+   cd senseai_api
