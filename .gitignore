@@ -29,5 +29,28 @@ next-env.d.ts
 *.DS_Store
 
 .env
-sense_api/venv
-sense_api/.idea
+backend/venv
+backend/.idea
+backend/__pycache__
+# pycache
+# Python cache files
+__pycache__/
+# Python bytecode files
+*.py[cod]
+# Python virtual environments
+venv/
+# Python egg files
+*.egg
+# Python distribution files
+*.egg-info/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# PyCharm project files
+.idea/
+# VS Code workspace settings
+.vscode/
+backend/session_data/
+backend/urls
+backend/vector_stores
+backend/uploads
+
